@@ -52,6 +52,9 @@ h1, h2, h3{
 	/* center align the text */
 	/* use a web font here (instructions on page) */
 	/* make the heading text all small caps style */
+	text-align: center;
+	font-family: var(--heading-fonts);
+	font-variant: small-caps;
 }
 
 h2{
